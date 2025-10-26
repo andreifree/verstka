@@ -21,3 +21,12 @@ body {
     color: $color ;
     font-size: $text;
 }
+.wrapper{
+    max-width: $wrap;
+    margin: $mc;
+    padding: 0 15px;
+}
+.container{
+    max-width: $container;
+    margin: $mc;
+}
